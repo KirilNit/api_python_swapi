@@ -1,0 +1,42 @@
+Test Case 1:
+ -Get request to the `/films`
+ Expected results:
+     - response status code is in [200, 201]
+     - length is equal to 7
+     - count in response is equal to 7
+
+Test Case 2:
+ -Get request to the `/films`
+ -Find 4 episode
+ Expected result:
+    - response status code is in [200, 201]
+    - Release date is 1977-05-25
+
+Test Case 3:
+  -Get request to the `/films`
+  Expected result:
+    - response status code is in [200, 201]
+    - Director is George Lucas
+
+Test Case 4:
+ -Get request to the films/123123
+ Expected result:
+    - 404 not found
+
+Test Case 5:
+ -Get request to the `films/2`
+ Expected result:
+    - response status code is in [200, 201]
+    - Episode 5
+
+Test Case 6:
+ -Get request to the `people/1`
+ Expected result:
+    - response status code is in [200, 201]
+    - Name is Luke Skywalker
+
+Test Case 6:
+ -Get request to the `people/0`
+ Expected result:
+    - response status code is 404 Not Found
+

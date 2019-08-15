@@ -1,0 +1,21 @@
+
+2019-08-15 00:01:40,582 - TESTS FOR THE BEST GAMEDEV COMPANY:) - INFO - 
+Your test test_verify_amount_of_films took 2.086603879928589 seconds
+
+2019-08-15 00:01:41,738 - TESTS FOR THE BEST GAMEDEV COMPANY:) - INFO - 
+Your test test_release_date_fourth_episode took 1.1539881229400635 seconds
+
+2019-08-15 00:01:42,625 - TESTS FOR THE BEST GAMEDEV COMPANY:) - INFO - 
+Your test test_episode_two_director took 0.8844678401947021 seconds
+
+2019-08-15 00:01:42,948 - TESTS FOR THE BEST GAMEDEV COMPANY:) - INFO - 
+Your test test_negative_incorrect_film_id took 0.32063984870910645 seconds
+
+2019-08-15 00:01:43,755 - TESTS FOR THE BEST GAMEDEV COMPANY:) - INFO - 
+Your test test_asinc_ids took 0.803776741027832 seconds
+
+2019-08-15 00:01:44,113 - TESTS FOR THE BEST GAMEDEV COMPANY:) - INFO - 
+Your test test_luke took 0.3545992374420166 seconds
+
+2019-08-15 00:01:44,483 - TESTS FOR THE BEST GAMEDEV COMPANY:) - INFO - 
+Your test test_negative_incorrect_id took 0.36834287643432617 seconds
